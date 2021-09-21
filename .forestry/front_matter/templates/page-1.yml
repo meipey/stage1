@@ -1,45 +1,47 @@
 ---
 label: Page 1
-fields:
-  - type: text
-    name: h1slogan
-    label: h1slogan
-    default: made with patience
-  - type: text
-    name: h1
-    label: h1
-    default: Made with Silex
-  - type: file
-    name: navlogo
-    label: navlogo
-    default: ''
-  - type: file
-    name: heroimage
-    label: heroimage
-    default: ''
-  - type: text
-    name: subtitle
-    label: subtitle
-    default: Lorem ipsum consequat dolore reset
-  - type: file
-    name: person
-    label: photo-person
-    default: ''
-  - type: file
-    name: logo1
-    label: logo1
-    default: ''
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: page-1
-    config:
-      required: true
-display_field: permalink
 hide_body: true
+display_field: permalink
+fields:
+- type: text
+  name: h1slogan
+  label: h1slogan
+  default: made with patience
+- type: text
+  name: h1
+  label: h1
+  default: Made with Silex
+- type: file
+  name: navlogo
+  label: navlogo
+  default: ''
+- type: file
+  name: heroimage
+  label: heroimage
+  default: ''
+- type: text
+  name: subtitle
+  label: subtitle
+  default: Lorem ipsum consequat dolore reset
+- type: file
+  name: person
+  label: photo-person
+  default: ''
+- type: file
+  name: logo1
+  label: logo1
+  default: ''
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: page-1
+  config:
+    required: true
+pages:
+- content/pages/page 1.md
