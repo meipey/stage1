@@ -10,5 +10,6 @@ person: "/uploads/portrait-carre.jpg"
 h1-color: "#D54646"
 h1color: "#CD2B2B"
 logo1-vibes: "/assets/1logo9.png"
+heroimage: "/assets/nepal-1309205_1920.jpg"
 
 ---
