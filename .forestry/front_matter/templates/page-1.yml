@@ -4,10 +4,6 @@ hide_body: true
 display_field: permalink
 fields:
 - type: text
-  name: h1slogan
-  label: h1slogan
-  default: made with patience
-- type: text
   name: h1
   label: h1
   default: Made with Silex
