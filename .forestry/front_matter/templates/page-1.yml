@@ -29,6 +29,10 @@ fields:
     name: person
     label: photo-person
     default: ''
+  - type: text
+    name: hero-cta-button
+    label: hero-cta-button
+    default: Call to Action
   - type: file
     name: logo1
     label: logo1
