@@ -15,5 +15,6 @@ heroimage: "/assets/nepal-1309205_1920.jpg"
 navlogo: "/assets/1logo6.png"
 logo1: "/assets/1logo6.png"
 logo2: "/assets/1logo9.png"
+hero-cta-button: New Action
 
 ---
