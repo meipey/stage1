@@ -1,33 +1,35 @@
 ---
 label: Page 1
-fields:
-  - type: text
-    name: h1slogan
-    label: h1slogan
-    default: made with patience
-  - type: text
-    name: h1
-    label: h1
-    default: Made with Silex
-  - type: file
-    name: imgage
-    label: plaatje
-    default: ''
-  - type: text
-    name: subtitle
-    label: subtitle
-    default: Lorem ipsum consequat dolore reset
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: page-1
-    config:
-      required: true
-display_field: permalink
 hide_body: true
+display_field: permalink
+fields:
+- type: text
+  name: h1slogan
+  label: h1slogan
+  default: made with patience
+- type: text
+  name: h1
+  label: h1
+  default: Made with Silex
+- type: file
+  name: imgage
+  label: plaatje
+  default: ''
+- type: text
+  name: subtitle
+  label: subtitle
+  default: Lorem ipsum consequat dolore reset
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: page-1
+  config:
+    required: true
+pages:
+- content/pages/page 1.md
