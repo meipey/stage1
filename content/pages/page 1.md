@@ -5,6 +5,6 @@ subtitle: Lorem ipsum consequat dolore reset
 layout: page-1
 img: "/uploads/logo.png"
 permalink: "/"
-imgage: "/uploads/logo.png"
+imgage: "/uploads/logo-1.png"
 
 ---
