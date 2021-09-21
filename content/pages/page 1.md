@@ -13,6 +13,6 @@ h1color: "#CD2B2B"
 logo1-vibes: "/assets/1logo9.png"
 heroimage: "/assets/nepal-1309205_1920.jpg"
 navlogo: "/assets/1logo6.png"
-logo1: ''
+logo1: "/assets/1logo6.png"
 
 ---
