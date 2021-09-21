@@ -1,7 +1,7 @@
 ---
 h1slogan: ''
 h1: Made with Silex
-subtitle: Lorem ipsum consequat dolore reset
+subtitle: changed in Forestry
 layout: page-1
 img: "/uploads/logo.png"
 permalink: "/"
