@@ -9,5 +9,6 @@ imgage: "/uploads/1logo.png"
 person: "/uploads/portrait-carre.jpg"
 h1-color: "#D54646"
 h1color: "#CD2B2B"
+logo1-vibes: "/uploads/1logo10.png"
 
 ---
