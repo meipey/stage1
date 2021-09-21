@@ -31,5 +31,12 @@ fields:
   default: page-1
   config:
     required: true
+- name: h1-color
+  type: color
+  label: h1
+  config:
+    required: false
+    color_format: Hex
+  description: color for h1
 pages:
 - content/pages/page 1.md
